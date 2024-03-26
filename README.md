@@ -1,12 +1,12 @@
 ```markdown
 # Aligned-Layer-Testnet Setup Guide
-
+```
 This guide provides detailed instructions for setting up an Aligned-Layer-Testnet node from scratch on a server.
 
 ## Update Your System
 
 First, ensure that your system's package index is updated and that all existing packages are upgraded to their latest versions:
-```
+
 
 ```bash
 sudo apt update && sudo apt upgrade -y
