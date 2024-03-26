@@ -6,6 +6,7 @@ This guide provides detailed instructions for setting up an Aligned-Layer-Testne
 ## Update Your System
 
 First, ensure that your system's package index is updated and that all existing packages are upgraded to their latest versions:
+```
 
 ```bash
 sudo apt update && sudo apt upgrade -y
