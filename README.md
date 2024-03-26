@@ -4,6 +4,7 @@ To install the node on a server from scratch, you can follow these steps based o
 
 Update your system:
 sudo apt update && sudo apt upgrade -y
+
 sudo apt install make curl git wget htop tmux build-essential jq make lz4 gcc unzip -y
 
 Install Go: Replace ver with the version number you wish to install.
